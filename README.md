@@ -16,8 +16,8 @@ An experienced _Front-End Engineer_ with more than 2+ years of experience in the
 - 🌏 I'm currently based in Karachi, Pakistan
 - 🔭 I’m currently working as a Senior Software Engineer at <a href="https://techwards.co" target="blank">Techwards</a>
 - 🏗️ Working on mobile and web development projects
-- 🌱 Currently learning AstroJs and Svelte
-- 💬 Ask me about **React & ReactNative**
+- 🌱 Currently learning AstroJs
+- 💬 Ask me about **React,ReactNative & Unity**
 - 📫 How to reach me **zaid.ahmed@techwards.co**
 
 <!-- EXPERTISE -->
