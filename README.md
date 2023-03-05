@@ -18,7 +18,7 @@ An experienced _Front-End Engineer_ with more than 2+ years of experience in the
 - 🏗️ Working on mobile and web development projects
 - 🌱 Currently learning AstroJs
 - 💬 Ask me about **React,ReactNative & Unity**
-- 📫 How to reach me **zaid.ahmed@techwards.co**
+- 📫 How to reach me **zaidahmed05@hotmail.com**
 
 <!-- EXPERTISE -->
 ## Tech Stack
