@@ -13,7 +13,7 @@ An experienced Front-End Engineer with more than 3+ years of experience in the c
 
 Throughout my career, I have led large-scale projects from inception to completion, working with cross-functional teams to ensure successful delivery. I am passionate about developing elegant and efficient software solutions that are scalable, reliable, and maintainable.
 
-I am a problem solver at heart, and enjoy taking on complex design and development challenges to deliver elegant and efficient solutions. If you are looking for a front end engineer who is passionate about creating user-friendly interfaces and driving business success, please don't hesitate to connect.
+I am a problem solver, enjoy taking on complex design and development challenges to deliver elegant and efficient solutions. If you are looking for a front end engineer who is passionate about creating user-friendly interfaces and driving business success, please don't hesitate to connect.
 
 <!-- ABOUT ME -->
 ## About Me
