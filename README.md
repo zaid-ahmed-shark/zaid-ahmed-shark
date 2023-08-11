@@ -9,7 +9,7 @@
 
 </div>
 
-An experienced Front-End Engineer with more than 2+ years of experience in the computer software industry, I have developed a deep understanding of software architecture, design, and development. My expertise includes React, React Native, NextJS, Astro, JavaScript, TypeScript, HTML/CSS, C#, Unity, Virtual Reality (VR), Augmented Reality (AR) Applications, Image Editing, Video Editing and I have a proven track record of delivering high-quality software solutions that meet business requirements.
+An experienced Front-End Engineer with more than 3+ years of experience in the computer software industry, I have developed a deep understanding of software architecture, design, and development. My expertise includes React, React Native, NextJS, Astro, JavaScript, TypeScript, HTML/CSS, C#, Unity, Virtual Reality (VR), Augmented Reality (AR) Applications, Image Editing, Video Editing and I have a proven track record of delivering high-quality software solutions that meet business requirements.
 
 Throughout my career, I have led large-scale projects from inception to completion, working with cross-functional teams to ensure successful delivery. I am passionate about developing elegant and efficient software solutions that are scalable, reliable, and maintainable.
 
